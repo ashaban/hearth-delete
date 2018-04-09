@@ -1,0 +1,12 @@
+{
+  "resourceType": "Basic",
+  "id": "1",
+  "code": {
+    "coding": [
+      {
+        "system": "hearth:basic",
+        "code": "blank"
+      }
+    ]
+  }
+}
